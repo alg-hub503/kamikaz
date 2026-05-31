@@ -1,6 +1,5 @@
 const content = {
-  name: "KAMIKAZgit add .; git commit -m "update"; git push",
-  role: "Senior Creative Designer",
+name: "KAMIKAZ",  role: "Senior Creative Designer",
   description:
     "I help brands grow through modern branding, UI/UX design, and high-impact visual storytelling.",
   about:
