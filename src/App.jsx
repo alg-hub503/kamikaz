@@ -1,5 +1,5 @@
 const content = {
-  name: "KAMIKAZ",
+  name: "KAMIKAZ TEST 999",
   role: "Senior Creative Designer",
   description:
     "I help brands grow through modern branding, UI/UX design, and high-impact visual storytelling.",
